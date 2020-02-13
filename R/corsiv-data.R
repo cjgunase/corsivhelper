@@ -7,6 +7,6 @@
 #' @keywords datasets
 #' @name CoRSIV_Probes
 #' @usage data(CoRSIV_Probes)
-#' @format A data frame with 53940 rows and 10 variables
-NULL
+#' @format A data frame with 3900 rows and 4 variables
+"CoRSIV_Probes"
 

@@ -3,13 +3,12 @@
 \docType{data}
 \name{CoRSIV_Probes}
 \alias{CoRSIV_Probes}
-\title{Prices of 50,000 round cut diamonds}
+\title{This dataframe contains hm450k probes overlapping CoRSIV regions}
 \format{A data frame with 53940 rows and 10 variables}
 \usage{
 data(CoRSIV_Probes)
 }
 \description{
-A dataset containing the prices and other attributes of almost 54,000
- diamonds. The variables are as follows:
+A dataset containing the probe id and overlapping CoRSIV ID
 }
 \keyword{datasets}
