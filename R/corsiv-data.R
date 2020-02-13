@@ -1,9 +1,7 @@
-#' Prices of 50,000 round cut diamonds
+#' This dataframe contains hm450k probes overlapping CoRSIV regions
 #'
-#' A dataset containing the prices and other attributes of almost 54,000
-#'  diamonds. The variables are as follows:
+#' A dataset containing the probe id and overlapping CoRSIV ID
 #'
-
 #'
 #' @docType data
 #' @keywords datasets
